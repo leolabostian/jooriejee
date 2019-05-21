@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eengohloh.mobimvp.com/sitemap.xml
